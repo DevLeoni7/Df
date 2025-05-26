@@ -1,5 +1,3 @@
-# raiz_newton1
-
 def raiz_newton(c, n, p, max_iter=10000):
     iter_count = 0
 
