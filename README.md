@@ -1,5 +1,7 @@
 expressão = input('Digite uma função f(x):')
+
 x = float(input('Digite um valor para x :'))
+
 h = float(input('Digite um valor para h :'))
 
 def f(x):
